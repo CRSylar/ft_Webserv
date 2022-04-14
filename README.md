@@ -1,7 +1,7 @@
 # ft_Webserv
 A webserv in c++ for the 42 school project 
 
-![Cromalde's 42Project Score](https://badge42.herokuapp.com/api/project/cromalde/webserv)
+[![cromalde's 42 webserv Score](https://badge42.vercel.app/api/v2/cl1z1axw3001109mox1m22pjp/project/2182608)](https://github.com/JaeSeoKim/badge42)
 
 Project done with @UmbertoSavoia.
 
